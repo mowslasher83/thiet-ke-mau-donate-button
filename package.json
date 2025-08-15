@@ -17,5 +17,6 @@
   "devDependencies": {
     "react-scripts": "^4.0.3"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["react", "donate", "button", "ui"]
 }
