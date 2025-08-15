@@ -1,3 +1,5 @@
+# Ignoring directories and files that should not be versioned
+
 # Ignore node modules directory
 node_modules/
 
