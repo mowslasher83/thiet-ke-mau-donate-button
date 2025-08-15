@@ -9,3 +9,6 @@ built/
 
 # Ignore environment variables file
 .env
+
+# Ignore logs directory
+logs/
